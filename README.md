@@ -1,2 +1,4 @@
 # The-Second-Game
 This is my second game made with my friends, called Prometheus. But sadly, we haven't finished it yet, hope someday I will make a full version.
+In this game, player will control a role called Prometheus. He walks in the maze with endless dark to look for light, but he has the ability to shadowlize. It's a state that monsters will be invisible but he will be invincible, of course this skill has limits. It will cost his sanity, when sanity goes down, his visible area will decrease also.
+I think the most complex part of this project is processing pictures. The only tool we use is VS, .bmp is the only available picture format. So I faced a problem, I can't get pictures with transparent part. To deal with it, after searching for some solutions, I used masks and finally sovled the problem. 
